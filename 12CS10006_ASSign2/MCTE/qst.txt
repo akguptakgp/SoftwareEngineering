@@ -1,0 +1,21 @@
+10
+<html><p>If 5 balls are placed at random into 5 cells, find the probability that exactly one cell remains empty?.</p></html>
+0.384 0.568 0.245 0.278 0.384
+<html><p>In a certain colony, 60% of the families own a car, 30% .If a family is randomly chosen, what is the probability that this family owns a car or a house but not both ?</p></html>
+0.5 0.6 0.3 0.2 0.5  
+<html><p>A survey of people in given region showed that 20% were 10  If the probability of death due to lung cancer in the region is 0.006, what is the probability of death due to lung cancer given that a person is a smoker?</p></html>
+0.5 0.6 0.3 0.2 0.5
+<html><p>Four players A, B, C and D are distributed thirteen cards each at random from a complete deck of 52 cards. What is the probability that player C has all four kings?</p></html>
+0.25 .28 .5 .86 .28
+<html><p>Boys and girls are equally likely to qualify an examination. If 2n students qualify, what is the probability that more girls qualify than boys?</p></html>
+.43 .89 .78 .86 .78
+<html><p>If 5 balls are placed at random into 5 cells, find the probability that exactly one cell remains empty?.</p></html>
+0.384 0.568 0.245 0.278 0.384
+<html><p>In a certain colony, 60% of the families own a car, 30% .If a family is randomly chosen, what is the probability that this family owns a car or a house but not both ?</p></html>
+0.5 0.6 0.3 0.2 0.5  
+<html><p>A survey of people in given region showed that 20% were 10  If the probability of death due to lung cancer in the region is 0.006, what is the probability of death due to lung cancer given that a person is a smoker?</p></html>
+0.5 0.6 0.3 0.2 0.5
+<html><p>Four players A, B, C and D are distributed thirteen cards each at random from a complete deck of 52 cards. What is the probability that player C has all four kings?</p></html>
+0.25 .28 .5 .86 .28
+<html><p>Boys and girls are equally likely to qualify an examination. If 2n students qualify, what is the probability that more girls qualify than boys?</p></html>
+.43 .89 .78 .86 .78

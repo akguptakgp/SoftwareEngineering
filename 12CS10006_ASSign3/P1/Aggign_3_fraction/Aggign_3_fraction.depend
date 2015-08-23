@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1392053508 source:e:\users\ankit gupta\desktop\se\assignment_3_files\aggign_3_fraction\main.cpp
+	<iostream>
+
+1391971104 e:\users\ankit gupta\desktop\se\assignment_3_files\aggign_3_fraction\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392383531 e:\users\ankit gupta\desktop\se\assignment_3_files\aggign_3_fraction\fraction.inl
+	<iostream>
+	<cmath>
+
+1392054388 source:e:\users\ankit gupta\desktop\se\assignment_3_files\aggign_3_fraction\testfraction.cxx
+	<iostream>
+	"Fraction.hxx"
+
+1392054956 source:e:\users\ankit gupta\desktop\se\assignment_3_files\aggign_3_fraction\rationalcalc.cxx
+	<iostream>
+	"Fraction.hxx"
+
+1392053508 source:e:\users\ankit gupta\desktop\se\12cs10006_assign3\p1\aggign_3_fraction\main.cpp
+	<iostream>
+
+1392054388 source:e:\users\ankit gupta\desktop\se\12cs10006_assign3\p1\aggign_3_fraction\testfraction.cxx
+	<iostream>
+	"Fraction.hxx"
+
+1391971104 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p1\aggign_3_fraction\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392385238 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p1\aggign_3_fraction\fraction.inl
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,7 @@
+for question no 2 video store
+username and password for manager
+username=manager  ,password=manager
+
+username and password for clerk
+username=clerk  ,password=clerk
+

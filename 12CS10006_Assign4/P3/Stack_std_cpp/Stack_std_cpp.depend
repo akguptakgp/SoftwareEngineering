@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393733689 source:e:\users\ankit gupta\desktop\12cs10006_assign4\p3\stack_std_cpp\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stack>
+

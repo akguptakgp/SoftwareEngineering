@@ -1,0 +1,6 @@
+-1 null 0.384. 
+-1 null  
+-1 null 0.5 
+-1 null .28 
+-1 null .78 
+-5

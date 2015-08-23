@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1392055365 source:e:\users\ankit gupta\desktop\se\assignment_3_files\rational_calc\main.cpp
+	<iostream>
+	"Fraction.hxx"
+
+1391971104 e:\users\ankit gupta\desktop\se\assignment_3_files\rational_calc\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392385203 e:\users\ankit gupta\desktop\se\assignment_3_files\rational_calc\fraction.inl
+	<iostream>
+	<cmath>
+

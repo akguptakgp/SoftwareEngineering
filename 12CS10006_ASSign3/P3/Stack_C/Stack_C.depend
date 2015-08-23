@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1392398538 source:e:\users\ankit gupta\desktop\se\assignment_3_files\stack_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1392432536 source:e:\users\ankit gupta\desktop\se\12cs10006_assign3\p3\stack_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

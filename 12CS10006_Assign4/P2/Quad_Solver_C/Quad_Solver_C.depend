@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1393705863 source:e:\users\ankit gupta\desktop\se\assignment_3_files\quad_solver_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+	<math.h>
+
+1393764457 source:e:\users\ankit gupta\desktop\12cs10006_assign4\p2\quad_solver_c\main.c
+	<stdio.h>
+	<setjmp.h>
+	<math.h>
+

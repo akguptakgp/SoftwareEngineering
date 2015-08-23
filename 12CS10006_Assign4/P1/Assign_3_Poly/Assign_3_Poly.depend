@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1392193933 source:e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\main.cpp
+	<iostream>
+
+1392385902 source:e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\testpoly.cxx
+	<iostream>
+	"Fraction.hxx"
+	"Polynomial.hxx"
+
+1391791855 e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392194396 e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\fraction.inl
+	<iostream>
+
+1392057122 e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\polynomial.hxx
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+	"Polynomial.inl"
+
+1392388061 e:\users\ankit gupta\desktop\se\assignment_3_files\assign_3_poly\polynomial.inl
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+
+1392388062 source:e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\main.cpp
+	<iostream>
+
+1393129111 source:e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\testpoly.cxx
+	<iostream>
+	"Fraction.hxx"
+	"Polynomial.hxx"
+
+1391791855 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392194396 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\fraction.inl
+	<iostream>
+
+1392057122 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\polynomial.hxx
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+	"Polynomial.inl"
+
+1393129675 e:\users\ankit gupta\desktop\se\12cs10006_assign3\p2\assign_3_poly\polynomial.inl
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+
+1392388062 source:e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\main.cpp
+	<iostream>
+
+1393734009 source:e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\testpoly.cxx
+	<iostream>
+	"Fraction.hxx"
+	"Polynomial.hxx"
+
+1391791855 e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\fraction.hxx
+	<iostream>
+	"Fraction.inl"
+
+1392194396 e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\fraction.inl
+	<iostream>
+
+1392057122 e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\polynomial.hxx
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+	"Polynomial.inl"
+
+1393129675 e:\users\ankit gupta\desktop\12cs10006_assign4\p1\assign_3_poly\polynomial.inl
+	<iostream>
+	<vector>
+	"Fraction.hxx"
+
